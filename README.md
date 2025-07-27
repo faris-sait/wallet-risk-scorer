@@ -1,4 +1,4 @@
-# 🔍 Risk Analyzer Documentation 
+# 🔍 Wallet Risk Scoring From Scratch
 
 ## 🌟 Overview
 
