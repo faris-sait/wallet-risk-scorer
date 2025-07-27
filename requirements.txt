@@ -1,0 +1,18 @@
+#Install these packages using:
+# pip install -r requirements.txt
+
+
+# For data manipulation and analysis (DataFrames)
+pandas
+
+# For numerical operations (used by pandas)
+numpy
+
+# For data normalization (MinMaxScaler)
+scikit-learn
+
+# For making HTTP requests to the Etherscan API
+requests
+
+# For loading environment variables from a .env file (API key)
+python-dotenv
